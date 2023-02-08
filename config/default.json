@@ -1,0 +1,4 @@
+{
+  "serverPort": 5000,
+  "dbUrl": "mongodb+srv://Neo:Neo12345@trell.quqbv7d.mongodb.net/Trell?retryWrites=true&w=majority"
+}
