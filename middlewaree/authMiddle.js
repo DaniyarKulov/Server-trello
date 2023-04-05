@@ -4,7 +4,7 @@ module.exports = function (req, res, next) {
   if (req.method === "OPTIONS") {
     next();
   }
-
+// sfasdasdasd
   try {
     const token = req.headers.authorization.split(" ")[1];
     if (!token) {
